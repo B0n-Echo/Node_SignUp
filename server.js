@@ -6,7 +6,7 @@ var crypto = require('crypto');
 var app = express();
 
 var MONGO_URL =
-    "mongodb://admin:mikazaru1993@ds125372.mlab.com:25372/nikhilsdatabase";
+    "mongodb://33333333333333333333333333333333/yourDBdatabase";
 
 app.get('/', function (req, res) {
     res.set({
